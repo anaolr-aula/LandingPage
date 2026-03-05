@@ -1,0 +1,17 @@
+.footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    margin-top: 40px;
+  }
+  
+  .social {
+    margin-bottom: 15px;
+  }
+  
+  .social a {
+    margin: 0 15px;
+    color: #00bfff;
+    text-decoration: none;
+  }
